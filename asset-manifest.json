@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deployed-scrimba-event-handlers/static/css/main.34de6062.chunk.css",
+    "main.js": "/deployed-scrimba-event-handlers/static/js/main.533fdf36.chunk.js",
+    "main.js.map": "/deployed-scrimba-event-handlers/static/js/main.533fdf36.chunk.js.map",
+    "runtime-main.js": "/deployed-scrimba-event-handlers/static/js/runtime-main.bf678a6b.js",
+    "runtime-main.js.map": "/deployed-scrimba-event-handlers/static/js/runtime-main.bf678a6b.js.map",
+    "static/js/2.1881da05.chunk.js": "/deployed-scrimba-event-handlers/static/js/2.1881da05.chunk.js",
+    "static/js/2.1881da05.chunk.js.map": "/deployed-scrimba-event-handlers/static/js/2.1881da05.chunk.js.map",
+    "index.html": "/deployed-scrimba-event-handlers/index.html",
+    "precache-manifest.3766a34afdf25c8068330d57213d392b.js": "/deployed-scrimba-event-handlers/precache-manifest.3766a34afdf25c8068330d57213d392b.js",
+    "service-worker.js": "/deployed-scrimba-event-handlers/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/deployed-scrimba-event-handlers/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf678a6b.js",
+    "static/js/2.1881da05.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.533fdf36.chunk.js"
+  ]
+}
